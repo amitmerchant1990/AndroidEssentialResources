@@ -1,4 +1,4 @@
-# AndroidEssentialResources
+# Android Essential Resources
 
 General
 =======
